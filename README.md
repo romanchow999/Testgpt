@@ -1,2 +1,2 @@
 #Testgpt
-Prove that 1+1=2, make it seamless
+Explain the American governmental system make it seamless
